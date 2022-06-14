@@ -10,7 +10,7 @@
 }
 .box {
     
-    background-color: rgb(145, 53, 145);
+    background-color: rgba(53, 145, 72, 0.675);
     width: 100px;
     height: 100px;
 }
